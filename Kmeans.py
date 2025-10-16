@@ -3,7 +3,6 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from sklearn.metrics import confusion_matrix, accuracy_score
 from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier, plot_tree
 import seaborn as sns
 
 # Print the first five records
