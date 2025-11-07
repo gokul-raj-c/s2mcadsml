@@ -39,7 +39,7 @@ predcited=model.predict(text_vectors)
 print(f"predcited value: {target_names[predcited[0]]}")
 
 
-if predcited[0] == 0:
+"""if predcited[0] == 0:
     print("\nPrediction: Tech")
 else:
-    print("\nPrediction: Finance")
+    print("\nPrediction: Finance")"""
